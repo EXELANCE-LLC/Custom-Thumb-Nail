@@ -13,6 +13,7 @@ pnpm dev
 # or
 bun dev
 ```
+![image](https://github.com/EXELANCE-LLC/Custom-Thumb-Nail/assets/26485488/28343c98-bcd4-47ac-9a51-aeaf5e672186)
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
